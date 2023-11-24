@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "motax",
-    "slug": "motax",
+    "slug": "eepconectados",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,8 +29,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "1d7eecb3-c352-48c8-8101-1c98df12125b"
+        "projectId": "ad1514f9-2264-495b-bd34-73274ffbb310"
       }
-    }
+    },
+    "owner": "dsdsrs1"
   }
 }
