@@ -1,37 +1,12 @@
 {
   "expo": {
-    "name": "motax",
-    "slug": "eepconectados",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "package": "com.dsdsrs01.eepconectados"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
     "extra": {
       "eas": {
-        "projectId": "ad1514f9-2264-495b-bd34-73274ffbb310"
+        "projectId": "f7521a36-37d4-4d69-be84-24483ebef878"
       }
     },
-    "owner": "dsdsrs1"
+    "android": {
+      "package": "com.dsdsrs1.eepconectados"
+    }
   }
 }
